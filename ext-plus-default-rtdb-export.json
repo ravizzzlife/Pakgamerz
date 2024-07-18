@@ -1,0 +1,53 @@
+{
+  "aplikasi": {
+    "G1": {
+      "id": 0,
+      "package": "com.tencent.ig",
+      "status": "Safe",
+      "title": "PUBG | GLOBAL",
+      "version": "3.2.0"
+    },
+    "G2": {
+      "id": 1,
+      "package": "com.pubg.krmobile",
+      "status": "Safe",
+      "title": "PUBG | KOREA",
+      "version": "3.2.0"
+    },
+    "G3": {
+      "id": 2,
+      "package": "com.vng.pubgmobile",
+      "status": "Safe",
+      "title": "PUBG | VIETNAM",
+      "version": "3.2.0"
+    },
+    "G4": {
+      "id": 3,
+      "package": "com.rekoo.pubgm",
+      "status": "Safe",
+      "title": "PUBG | TAIWAN",
+      "version": "3.2.0"
+    },
+    "G5": {
+      "id": 4,
+      "package": "com.pubg.imobile",
+      "status": "Safe",
+      "title": "PUBG | INDIA",
+      "version": "3.2.0"
+    }
+  },
+  "loader": {
+    "BGMI": {
+      "gamename": "BGMI",
+      "name": "libbgmi.so",
+      "url": "https://firebasestorage.googleapis.com/v0/b/ext-plus.appspot.com/o/libbgmi.so?alt=media&token=7b9d9521-4b7c-4937-90ca-947be97f2eef",
+      "version": 353
+    },
+    "PUBGM": {
+      "gamename": "PUBGM",
+      "name": "libpubgm.so",
+      "url": "https://firebasestorage.googleapis.com/v0/b/ext-plus.appspot.com/o/libpubgm.so?alt=media&token=b8f8e5af-bd8a-4225-b3d4-0f8bb3c8aec5",
+      "version": 353
+    }
+  }
+}
